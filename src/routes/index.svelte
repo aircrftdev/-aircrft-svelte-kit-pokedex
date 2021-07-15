@@ -26,6 +26,15 @@ fetchPokemon();
 <p>The world’s most precious resource is the passionate and committed human mind.</p>
 <br>
 <p>Organized in 4 core problem stacks: Urgent, Future, Common, and Anything Else.</p>
+<br>
+<p>A Postive Impact Technology Project</p>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UU7MgYIbtAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<div style="position: relative; padding-bottom: 53.57142857142857%; height: 0;"><iframe src="https://www.loom.com/embed/9ea863a846c94126a6f214065831c15e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<br>
+<br>
+
 <input class="w-full rounded-md text-lg p-4 border-2 border-gray-200" bind:value={searchTerm} placeholder="Search Pokemon">
 <div class="py-4 grid gap-4 md:grid-cols-2 grid-cols-1">
     

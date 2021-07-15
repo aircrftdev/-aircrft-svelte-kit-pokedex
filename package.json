@@ -1,5 +1,5 @@
 {
-	"name": "svelte-kit-pokedex",
+	"name": "aircrft-svelte-startup-api",
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "svelte-kit dev",

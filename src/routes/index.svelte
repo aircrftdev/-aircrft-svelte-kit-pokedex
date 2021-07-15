@@ -21,11 +21,11 @@ fetchPokemon();
 </svelte:head>
 
 <h1 class="text-4xl text-center my-8 uppercase">Aircrft Problem / Solution Stack</h1>
-<p>Welcome the Aircrft powered Problem / Solution Stack - the world's most up-to-the minute realtime open source problem and solution database. "Craigslist for problem solving!"</p>
+<p>Welcome the Aircrft powered Problem / Solution Stack - the world's most up-to-the minute realtime open source problem and solution database. "Craigslist for problem solving!" Our moonshot mission is to "Solve the problem of problem-solving". The Aircrft Problem/Solution matching algorithm matches people to the problem(s) they are deeply passionate about solving. Thiers no wrong work, just the wrong person doing the wrong work.</p>
 
 <br>
 <br>
-<p>Organized in 4 core problem sets: Urgent, Future, Common, and anything else.</p>
+<p>Organized in 4 core problem stacks: Urgent, Future, Common, and Anything Else.</p>
 <input class="w-full rounded-md text-lg p-4 border-2 border-gray-200" bind:value={searchTerm} placeholder="Search Pokemon">
 <div class="py-4 grid gap-4 md:grid-cols-2 grid-cols-1">
     
